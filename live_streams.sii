@@ -5,9 +5,8 @@ SiiNunit
 # Compatible con American Truck Simulator y Euro Truck Simulator > Desarrollado y testeado en versión 1.51
 # Actualizaciones y reporte de señales caídas en mi Servidor de Discord: https://discord.gg/t8uxbPkGhJ
 # TOTAL EMISORAS EN ESTA VERSIÓN: 167 EMISORAS / ANTES 143
-#
-live_stream_def : _nameless.1ed.c04d.81b0 {
- stream_data: 190
+ live_stream_def : _thokora.laestacion.uno {
+ stream_data: 189
 #EMISORAS EXCLUSIVAS ATS Y ETS2(2 EMISORAS)
  stream_data[0]: "https://a3.asurahosting.com:6030/radio.mp3|EMISORA LA ESTACIÓN / EXCLUSIVA ATS Y ETS|Crossover|ES|128|0"
  stream_data[1]: "https://emisorasinfronterasc.out.airtime.pro/emisorasinfronterasc_a|Sin Fronteras Cargo|Crossover|ES|64|0"
@@ -192,36 +191,36 @@ live_stream_def : _nameless.1ed.c04d.81b0 {
  stream_data[157]: "http://radiolatina.info:9025/;|Cerro Azul Yarumal|Crossover|ES|96|0"
 #VIRTUALES (32 EMISORAS)
  stream_data[158]: "#|<== EMISORAS ALTERNATIVAS - VIRTUALES ==>|COLOMBIA|ATS|100|0"
- stream_data[159]: "https://stream-175.zeno.fm/zqmbazztduhvv?|Alborada - ORIA|Romántica|ES|128|0" 
+ stream_data[159]: "https://stream-175.zeno.fm/zqmbazztduhvv?|Alborada - ORIA|Romántica|ES|128|0"
  stream_data[160]: "https://stream-151.zeno.fm/2x459c9upuhvv?|Bervelly Hills - ORIA|Anglo|ES|128|0"
  stream_data[161]: "http://163.172.198.16:8014/;stream.mp3|El Tunel Rock|Rock|ES|96|0"
- stream_data[163]: "https://stream-175.zeno.fm/ue5nb0tcprhvv?|Flashback Radio - ORIA|Various|ES|128|0"
- stream_data[164]: "http://colombiawebs.com.co:8038/index.stream?|Folklorica Estéreo|Regional Colombiana|ES|96|0"
- stream_data[165]: "https://stream-175.zeno.fm/us9vpubdprhvv?|Idilio Radio - ORIA|Romantica|ES|128|0" 
- stream_data[166]: "https://stream-173.zeno.fm/gbx1butcprhvv?|KLor Radio - ORIA|Salsa|ES|128|0" 
- stream_data[167]: "http://radiolatina.info:8772/stream?|La Pachanguera|Crossover|Es|96|0"
- stream_data[168]: "https://stream.zeno.fm/6p86w8204f5tv?|La Poderosa 80's|Crossover|ES|96|0"
- stream_data[169]: "https://stream.zeno.fm/2u5uwta14f5tv?|La Poderosa 90's|Crossover|ES|96|0"
- stream_data[170]: "https://stream.zeno.fm/4yuqrn91qvduv?|La Poderosa Boleros|Boleros|ES|96|0"
- stream_data[171]: "https://stream.zeno.fm/wthy0c463f5tv?|La Poderosa Crossover|Crossover|ES|96|0"
- stream_data[172]: "https://stream.zeno.fm/bb6gebkqbxquv?|La Poderosa Intrumental|Instrumental|ES|96|0"
- stream_data[173]: "https://stream.zeno.fm/u6hnxux24f5tv?|La Poderosa Mixes|Crossover|ES|96|0"
- stream_data[174]: "https://stream.zeno.fm/c7017ud14f5tv?|La Poderosa Popular|Crossover|ES|96|0"
- stream_data[175]: "https://stream.zeno.fm/sczs61304f5tv?|La Poderosa Romántica|Balada|ES|96|0"
- stream_data[176]: "https://stream.zeno.fm/svhphz12y6duv?|La Poderosa Salsa|Salsa|ES|96|0"
- stream_data[177]: "https://stream.zeno.fm/6fr3w7v690duv?|La Poderosa Viejoteca|Crossover|ES|96|0"
- stream_data[178]: "https://stream-171.zeno.fm/hz4pctzi8gmvv?|La Querida Radio - ORIA|Popular|ES|128|0" 
- stream_data[179]: "https://stream-175.zeno.fm/gw0zu32pnrhvv?|La Sirena - ORIA|Vallenato|ES|128|0" 
- stream_data[180]: "https://stream.zeno.fm/f0pf8u4rbwzuv.mp3|Latin Urban HipHop|Urbano|ES|96|0"
- stream_data[181]: "https://stream-175.zeno.fm/529n04nkdphvv?|Lativa - ORIA|Retro|ES|128|0" 
- stream_data[182]: "https://stream-152.zeno.fm/gq3a6vgkdphvv?|Metro Radio - ORIA|Cumbia|ES|128|0" 
- stream_data[183]: "https://radiolatina.info/8076/stream?|Más Radio PB|Crossover|ES|96|0"
- stream_data[184]: "https://stream-171.zeno.fm/sqkecxji1xcvv?|NXT DNZ - ORIA|Electro/Dance|ES|128|0" 
- stream_data[185]: "https://stream-152.zeno.fm/4vzn16n2srhvv?|NXT Radio - ORIA|Urbano|ES|128|0" 
- stream_data[186]: "https://stream-171.zeno.fm/n843rn4wfxhvv?|OÍD Radio - ORIA|Gospel|ES|128|0" 
- stream_data[187]: "https://stream-176.zeno.fm/eppyzesaqrhvv?|Rocket Radio - ORIA|Rock|ES|128|0" 
- stream_data[188]: "https://stream-175.zeno.fm/5gguqz8upuhvv?|Urano Radio - ORIA|Crossover|ES|128|0" 
- stream_data[189]: "https://stream-43.zeno.fm/4hsipl3bc7ivv|Vallenata|Crossover/Hablada|Es|96|0"
- stream_data[190]: "https://stream-151.zeno.fm/a5prcq9upuhvv?|Wira Radio - ORIA|Crossover|ES|128|0" 
-}
+ stream_data[162]: "https://stream-175.zeno.fm/ue5nb0tcprhvv?|Flashback Radio - ORIA|Crossover|ES|128|0"
+ stream_data[163]: "http://colombiawebs.com.co:8038/index.stream?|Folklorica Estéreo|Regional Colombiana|ES|96|0"
+ stream_data[164]: "https://stream-175.zeno.fm/us9vpubdprhvv?|Idilio Radio - ORIA|Romantica|ES|128|0"
+ stream_data[165]: "https://stream-173.zeno.fm/gbx1butcprhvv?|KLor Radio - ORIA|Salsa|ES|128|0"
+ stream_data[166]: "http://radiolatina.info:8772/stream?|La Pachanguera|Crossover|Es|96|0"
+ stream_data[167]: "https://stream.zeno.fm/6p86w8204f5tv?|La Poderosa 80's|Crossover|ES|96|0"
+ stream_data[168]: "https://stream.zeno.fm/2u5uwta14f5tv?|La Poderosa 90's|Crossover|ES|96|0"
+ stream_data[169]: "https://stream.zeno.fm/4yuqrn91qvduv?|La Poderosa Boleros|Boleros|ES|96|0"
+ stream_data[170]: "https://stream.zeno.fm/wthy0c463f5tv?|La Poderosa Crossover|Crossover|ES|96|0"
+ stream_data[171]: "https://stream.zeno.fm/bb6gebkqbxquv?|La Poderosa Intrumental|Instrumental|ES|96|0"
+ stream_data[172]: "https://stream.zeno.fm/u6hnxux24f5tv?|La Poderosa Mixes|Crossover|ES|96|0"
+ stream_data[173]: "https://stream.zeno.fm/c7017ud14f5tv?|La Poderosa Popular|Crossover|ES|96|0"
+ stream_data[174]: "https://stream.zeno.fm/sczs61304f5tv?|La Poderosa Romántica|Balada|ES|96|0"
+ stream_data[175]: "https://stream.zeno.fm/svhphz12y6duv?|La Poderosa Salsa|Salsa|ES|96|0"
+ stream_data[176]: "https://stream.zeno.fm/6fr3w7v690duv?|La Poderosa Viejoteca|Crossover|ES|96|0"
+ stream_data[177]: "https://stream-171.zeno.fm/hz4pctzi8gmvv?|La Querida Radio - ORIA|Popular|ES|128|0"
+ stream_data[178]: "https://stream-175.zeno.fm/gw0zu32pnrhvv?|La Sirena - ORIA|Vallenato|ES|128|0"
+ stream_data[179]: "https://stream.zeno.fm/f0pf8u4rbwzuv.mp3|Latin Urban HipHop|Urbano|ES|96|0"
+ stream_data[180]: "https://stream-175.zeno.fm/529n04nkdphvv?|Lativa - ORIA|Retro|ES|128|0"
+ stream_data[181]: "https://stream-152.zeno.fm/gq3a6vgkdphvv?|Metro Radio - ORIA|Cumbia|ES|128|0"
+ stream_data[182]: "https://radiolatina.info/8076/stream?|Más Radio PB|Crossover|ES|96|0"
+ stream_data[183]: "https://stream-171.zeno.fm/sqkecxji1xcvv?|NXT DNZ - ORIA|Electro/Dance|ES|128|0"
+ stream_data[184]: "https://stream-152.zeno.fm/4vzn16n2srhvv?|NXT Radio - ORIA|Urbano|ES|128|0"
+ stream_data[185]: "https://stream-171.zeno.fm/n843rn4wfxhvv?|OÍD Radio - ORIA|Gospel|ES|128|0"
+ stream_data[186]: "https://stream-176.zeno.fm/eppyzesaqrhvv?|Rocket Radio - ORIA|Rock|ES|128|0"
+ stream_data[187]: "https://stream-175.zeno.fm/5gguqz8upuhvv?|Urano Radio - ORIA|Crossover|ES|128|0" 
+ stream_data[188]: "https://stream-43.zeno.fm/4hsipl3bc7ivv|Vallenata|Crossover/Hablada|Es|96|0"
+ stream_data[189]: "https://stream-151.zeno.fm/a5prcq9upuhvv?|Wira Radio - ORIA|Crossover|ES|128|0"
+ }
 }
