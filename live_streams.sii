@@ -9,7 +9,7 @@ SiiNunit
  stream_data: 189
 #EMISORAS EXCLUSIVAS ATS Y ETS2(2 EMISORAS)
  stream_data[0]: "https://a3.asurahosting.com:6030/radio.mp3|EMISORA LA ESTACIÓN / EXCLUSIVA ATS Y ETS|Crossover|ES|128|0"
- stream_data[1]: "https://emisorasinfronterasc.out.airtime.pro/emisorasinfronterasc_a|Sin Fronteras Cargo|Crossover|ES|64|0"
+ stream_data[1]: "https://emisorasinfronterasc.out.airtime.pro:8000/emisorasinfronterasc_a?_ga=2.240121220.641275102.1726758241-1933044353.1723499148|Sin Fronteras Cargo|Crossover|ES|64|0"
 #ABEJORRAL (1 EMISORA)
  stream_data[2]: "#|<== EMISORAS DE ABEJORRAL ==>|COLOMBIA|ATS|100|0"
  stream_data[3]: "https://icecasthd.net/proxy/abejorral/live?1685404903776|Abejorral Estéreo|Crossover|ES|96|0"
