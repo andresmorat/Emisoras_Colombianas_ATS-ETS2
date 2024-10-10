@@ -11,7 +11,7 @@ Este repositorio contendrá el archivo livestreams.sii de emisoras colombianas p
 ❌ Las emisoras pertenecientes a la cadena RCN no se han podido incluír por usar el formato AAC y este, no es compatible con los video juegos.
 </br>
 </br>
-🛠️📤 Actualización más reciente: 30/08/2024
+🛠️📤 Actualización más reciente: 30/09/2024
 </br>
 </br>
 🙋‍♂️ Soporte, dudas, recomendaciones y solicitud de emisoras en el servidor de Discord de Thokora Gaming: https://discord.gg/t8uxbPkGhJ
